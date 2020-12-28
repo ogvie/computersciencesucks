@@ -1,0 +1,2 @@
+# computersciencesucks
+print = hello wolrd
